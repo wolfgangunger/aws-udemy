@@ -1,0 +1,9 @@
+Hello AWS friends,
+
+my name is Wolfgang Unger and I am gonna guide you through 
+this course.
+I am software architect with many years in big software projects 
+for enterprises and also certified AWS architect.
+I hope you enjoy the course, have fun and learn a lot of 
+useful things.
+So ..Thanks for listening my course and see you on the first lession.

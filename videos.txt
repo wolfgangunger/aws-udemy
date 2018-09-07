@@ -1,0 +1,40 @@
+Udemy AWS Basics
+
+0. Hello / Introduction (cam) v 
+
+1. registration and first login v
+2. top menu security basics, admin account, password MFA  
+3. IAM basics, create to users, Password policy 
+4  access keys TODO
+5. IAM basics, groups roles and policies 
+6. Overview Services TODO
+
+Network 
+1. VPC TODO
+2. VPC 2 ( LBs usw) TODO
+3. Security Groups TODO
+4. Route53, Certificate Manager TODO
+
+Computing
+1. EC2 TODO
+2. EC2 2 TODO
+3. EC2 3 .. TODO
+4. Lambda TODO
+5. Ausblick ECS, EKS TODO
+
+Storage
+1. S3 TODO
+2. Glacier TODO
+3.EFS TODO
+
+Database
+1 RDS TODO
+2 Dynamo TODO
+
+Managemnt Tools
+1. Cloud Watch TODO
+2. Cloud Formation TODO
+3. Systems Manager TODO
+
+Add ons:
+Alexa, Lex, Polly TODO
